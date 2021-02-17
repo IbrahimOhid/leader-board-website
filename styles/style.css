@@ -1,0 +1,59 @@
+body{
+    background-color: #F3F1FF;;
+}
+
+nav img{
+    width: 40px;
+}
+
+h2{
+    color: white;
+    font-size: 24px;
+}
+h3{
+    color: #562EFF;
+}
+
+h4{
+    position: absolute;
+    top: 30px;
+    left: 300px ;
+    font-size: 18px;
+    font-weight: 500;  
+}
+
+.player img{
+    width: 56px;
+}
+
+main{
+    max-width: 1110px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+p{
+    position: absolute;
+    top: 30px;
+    left: 95px ;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.blog img{
+   height: 177px;
+}
+
+footer{
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 1110px;
+    border-radius: 5px;
+}
+.btn{
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+}
+
+
